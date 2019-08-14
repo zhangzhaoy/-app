@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/user/user",
+    "pages/index-menwei/index-menwei",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/shezhi/shezhi"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "安居宝测试版",
+  "compilerVersion": "2.0.1",
+  "usingComponents": {}
+}

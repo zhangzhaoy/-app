@@ -1,0 +1,19 @@
+.nav {min-height: 64rpx;}
+.jieshao{
+	border-top: 1px solid #999;width: 750rpx;background-color: #f9f7f7;
+}
+.center {display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;-ms-flex-pack: center;justify-content: center;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap; margin: 30rpx 0;}
+.center video {width: 680rpx;margin-bottom: 60rpx;}
+.neirong {min-height: 500rpx;}
+.menwei-p {width: 680rpx;font-size: 17px; line-height: 22px;color: #666;}
+.denlu {font-size: 15px;width: 680rpx;color: #999;}
+.botton {display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-pack: justify;-webkit-justify-content: space-between;-ms-flex-pack: justify;justify-content: space-between;}
+.botton button {width: 320rpx;margin: 20rpx 10rpx;color: #fff;}
+.botton button:last-child {background-color: #74ee2b;}
+.botton button:first-child {background-color: #2bb5ee;}
+.botton-jieshao {width: 680rpx; color: #008aff;margin: 50rpx 0;}
+.botton-jieshao navigator {display:inline-block;}
+.botton-jieshao text {margin: 0 30rpx;font-size: 17px;}
+.center {margin-bottom: 0;}
+
+

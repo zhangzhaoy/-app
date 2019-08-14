@@ -1,0 +1,18 @@
+.white {background-color: #fff;margin-top: 40upx;}
+.white1 {background-color: #fff;margin-top: -1px;}
+.border-topBotton {border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;}
+.logo {width: 150upx;margin: 30upx;}
+.logo-ringht image {width: 50upx;margin-right: 10upx;}
+.logo-ringht view {line-height: 60upx;}
+.user-botton1{display: flex;width: 750upx;align-items: center;}
+.bi {
+	display: flex;
+    align-items: center;
+}
+.user-view {font-size: 17px;}
+.user-view1 {font-size: 17px;margin-left: 30upx;line-height: 100upx;width: 460upx;}
+.icon {margin-left: 170upx; color: #ccc; font-size: 28px;}
+.icon1 {margin-left: 10upx; color: #ccc; font-size: 28px;}
+.banben {display: inline-block;font-size: 17px;width:210upx;text-align:right;}
+.text-i { position: relative;top: -2px;}
+.bi text {color: #008aff;margin-left: 40upx; font-size: 15px;}

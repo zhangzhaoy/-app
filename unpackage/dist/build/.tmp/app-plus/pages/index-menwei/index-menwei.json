@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "安居门卫介绍",
+  "navigationStyle": "custom",
+  "titleNView": false,
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}
